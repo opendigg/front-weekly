@@ -1,5 +1,6 @@
 # front-weekly
 OpenDigg前端开源项目周报<br/>
+[2月21日](https://github.com/opendigg/front-weekly/issues/8)<br />
 [2月14日](https://github.com/opendigg/front-weekly/issues/7)<br />
 [2月7日](https://github.com/opendigg/front-weekly/issues/6)<br />
 [1月16日](https://github.com/opendigg/front-weekly/issues/5)<br />
